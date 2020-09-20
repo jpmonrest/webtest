@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687170103278",
+    "firebase_url": "https://horno-atenas.firebaseio.com",
+    "project_id": "horno-atenas",
+    "storage_bucket": "horno-atenas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687170103278:android:b7bc30cf521302598650ff",
+        "android_client_info": {
+          "package_name": "blnkspcdev.com.flutterweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687170103278-10jt8n9bqti5ijf1udfh8i56qqmara93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo55nxbY9qT1ob2LuVII071r2ICaOjo9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687170103278-10jt8n9bqti5ijf1udfh8i56qqmara93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
